@@ -1,0 +1,26 @@
+{
+  "name": "Atari 400",
+  "nickname": "",
+  "manufacturer": "Atari Inc.",
+  "hardware": {
+    "cpu": {
+      "type": "MOS 6502",
+      "speed": "1.79MHz"
+    },
+    "ram": 8192,
+    "release": {
+      "year": 1979,
+      "month": 11
+    },
+    "keyboard": 61
+  },
+  "price": [
+    {
+      "year": 1978,
+      "amount": 549.95,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

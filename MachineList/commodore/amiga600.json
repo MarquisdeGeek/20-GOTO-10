@@ -1,0 +1,26 @@
+{
+  "name": "Amiga 600",
+  "nickname": "",
+  "manufacturer": "Commodore International",
+  "hardware": {
+    "cpu": {
+      "type": "68000",
+      "speed": "7.1MHz"
+    },
+    "ram": 524288,
+    "release": {
+      "year": 1992,
+      "month": 3
+    },
+    "keyboard": 78
+  },
+  "price": [
+    {
+      "year": 1992,
+      "amount": 595.95,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

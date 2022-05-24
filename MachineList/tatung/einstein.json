@@ -1,0 +1,30 @@
+{
+  "name": "Tatung  Einstein TC-01",
+  "nickname": "",
+  "manufacturer": "Tatung Corporation",
+  "hardware": {
+    "cpu": {
+      "type": "Z80A",
+      "speed": "4MHz"
+    },
+    "ram": 65536,
+    "release": {
+      "year": 1984
+    },
+    "discontinued": {
+      "year": 1985,
+      "month": 2
+    },
+    "sales": 2000000,
+    "keyboard": 67
+  },
+  "price": [
+    {
+      "year": 1984,
+      "amount": 499,
+      "currency": "gbp"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

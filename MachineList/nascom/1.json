@@ -1,0 +1,24 @@
+{
+  "name": "Nascom 1",
+  "nickname": "",
+  "manufacturer": "Nascom",
+  "hardware": {
+    "cpu": {
+      "type": "z80",
+      "speed": "0.9MHz"
+    },
+    "release": {
+      "year": 1978,
+      "month": 1
+    }
+  },
+  "price": [
+    {
+      "year": 1978,
+      "amount": 197.5,
+      "currency": "gbp"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

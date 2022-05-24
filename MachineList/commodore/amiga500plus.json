@@ -1,0 +1,25 @@
+{
+  "name": "Amiga 500 Plus",
+  "nickname": "",
+  "manufacturer": "Commodore International",
+  "hardware": {
+    "cpu": {
+      "type": "68000",
+      "speed": "7.1MHz"
+    },
+    "ram": 1048576,
+    "release": {
+      "year": 1991
+    },
+    "keyboard": 94
+  },
+  "price": [
+    {
+      "year": 1991,
+      "amount": 699,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

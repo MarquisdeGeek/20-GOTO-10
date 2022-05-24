@@ -1,0 +1,19 @@
+{
+  "name": "Casio MX-10",
+  "nickname": "",
+  "manufacturer": "Casio Computer Co.",
+  "hardware": {
+    "cpu": {
+      "type": "Z80A",
+      "speed": "3.6MHz"
+    },
+    "ram": 16384,
+    "release": {
+      "year": 1986
+    },
+    "keyboard": 79
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

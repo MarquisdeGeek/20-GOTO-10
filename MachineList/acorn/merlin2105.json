@@ -1,0 +1,20 @@
+{
+  "name": "BT Merlin M2105",
+  "nickname": "",
+  "manufacturer": "Acorn",
+  "hardware": {
+    "cpu": {
+      "type": "Rockwell 6502",
+      "speed": "2MHz"
+    },
+    "ram": 32768,
+    "release": {
+      "year": 1986,
+      "month": 5
+    },
+    "keyboard": 56
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

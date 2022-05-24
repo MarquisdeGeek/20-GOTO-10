@@ -1,0 +1,28 @@
+{
+  "name": "Apple Lisa",
+  "nickname": "",
+  "manufacturer": "Apple Computer",
+  "hardware": {
+    "cpu": {
+      "type": "MC 68000",
+      "speed": "5MHz"
+    },
+    "ram": 1048576,
+    "release": {
+      "year": 1984,
+      "month": 1,
+      "day": 19
+    },
+    "keyboard": 74
+  },
+  "sales": 10000,
+  "price": [
+    {
+      "year": 1984,
+      "amount": 9995,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

@@ -1,0 +1,19 @@
+{
+  "name": "ZX Spectrum +2A",
+  "nickname": "",
+  "manufacturer": "Amstrad",
+  "hardware": {
+    "cpu": {
+      "type": "Z80",
+      "speed": "3.5MHz"
+    },
+    "ram": 131072,
+    "release": {
+      "year": 1987
+    },
+    "keyboard": 58
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

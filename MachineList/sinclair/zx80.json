@@ -1,0 +1,41 @@
+{
+  "name": "Sinclair ZX80",
+  "nickname": "",
+  "manufacturer": "Science of Cambridge",
+  "hardware": {
+    "cpu": {
+      "type": "Z80",
+      "speed": "3.25MHz"
+    },
+    "ram": 1024,
+    "release": {
+      "year": 1980,
+      "month": 1,
+      "day": 29
+    },
+    "keyboard": 40
+  },
+  "sales": 100000,
+  "price": [
+    {
+      "year": 1980,
+      "amount": 199.95,
+      "currency": "usd",
+      "about": "built"
+    },
+    {
+      "year": 1980,
+      "amount": 79.95,
+      "currency": "gbp",
+      "about": "kit"
+    },
+    {
+      "year": 1980,
+      "amount": 99.95,
+      "currency": "gbp",
+      "about": "built"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Acorn Electron",
+  "nickname": "",
+  "manufacturer": "Acorn Computers",
+  "hardware": {
+    "cpu": {
+      "type": "MOS 6502",
+      "speed": "2MHz"
+    },
+    "ram": 32768,
+    "release": {
+      "year": 1983,
+      "month": 8
+    },
+    "keyboard": 56
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

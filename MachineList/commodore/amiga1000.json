@@ -1,0 +1,26 @@
+{
+  "name": "Commodore Amiga 1000",
+  "nickname": "",
+  "manufacturer": "Commodore International",
+  "hardware": {
+    "cpu": {
+      "type": "68000",
+      "speed": "7.1MHz"
+    },
+    "ram": 131072,
+    "release": {
+      "year": 1985,
+      "month": 7
+    },
+    "keyboard": 87
+  },
+  "price": [
+    {
+      "year": 1985,
+      "amount": 1285,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

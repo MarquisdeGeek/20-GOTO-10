@@ -1,0 +1,28 @@
+{
+  "name": "Commodore Plus/4",
+  "nickname": "",
+  "manufacturer": "Commodore Business Machines",
+  "hardware": {
+    "cpu": {
+      "type": "MOS 7501",
+      "speed": "0.89MHz"
+    },
+    "ram": 65536,
+    "release": {
+      "year": 1984
+    },
+    "discontinued": {
+      "year": 1986
+    },
+    "keyboard": 67
+  },
+  "price": [
+    {
+      "year": 1984,
+      "amount": 300,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

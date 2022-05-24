@@ -1,0 +1,19 @@
+{
+  "name": "Sord M23 Mark II",
+  "nickname": "",
+  "manufacturer": "Sort Computer Corportion",
+  "hardware": {
+    "cpu": {
+      "type": "Z80A",
+      "speed": "4MHz"
+    },
+    "ram": 32713107268,
+    "release": {
+      "year": 1982
+    },
+    "keyboard": 90
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

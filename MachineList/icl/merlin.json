@@ -1,0 +1,29 @@
+{
+  "name": "ICL Merlin Tonto M1800",
+  "nickname": "",
+  "manufacturer": "International Computers Limited",
+  "hardware": {
+    "cpu": {
+      "type": "Motorola 68008",
+      "speed": "7.5MHz"
+    },
+    "ram": 131072,
+    "release": {
+      "year": 1984,
+      "month": 11
+    },
+    "discontinued": {
+      "year": 1985
+    },
+    "keyboard": 73
+  },
+  "price": [
+    {
+      "year": 1984,
+      "amount": 399,
+      "currency": "gbp"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

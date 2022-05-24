@@ -1,0 +1,24 @@
+{
+  "name": "Oric Atmos",
+  "nickname": "",
+  "manufacturer": "Oric Products International",
+  "hardware": {
+    "cpu": {
+      "type": "MOS 6502A",
+      "speed": "1MHz"
+    },
+    "ram": 16384,
+    "release": {
+      "year": 1984,
+      "month": 1
+    },
+    "discontinued": {
+      "year": 1985,
+      "month": 2
+    },
+    "keyboard": 58
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

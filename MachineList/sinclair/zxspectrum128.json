@@ -1,0 +1,20 @@
+{
+  "name": "Sinclair Spectrum 128",
+  "nickname": "",
+  "manufacturer": "Sinclair Research",
+  "hardware": {
+    "cpu": {
+      "type": "Z80",
+      "speed": "3.5MHz"
+    },
+    "ram": 131072,
+    "release": {
+      "year": 1985,
+      "month": 9
+    },
+    "keyboard": 58
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

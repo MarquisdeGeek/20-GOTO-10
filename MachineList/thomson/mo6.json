@@ -1,0 +1,20 @@
+{
+  "name": "Thomson MO6",
+  "nickname": "",
+  "manufacturer": "Thomson Micro-Informatique",
+  "hardware": {
+    "cpu": {
+      "type": "Motorola 6809E",
+      "speed": "1MHz"
+    },
+    "ram": 131072,
+    "release": {
+      "year": 1986,
+      "month": 9
+    },
+    "keyboard": 69
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

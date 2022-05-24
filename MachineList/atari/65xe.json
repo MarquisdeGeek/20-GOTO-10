@@ -1,0 +1,26 @@
+{
+  "name": "Atari 65XE",
+  "nickname": "",
+  "manufacturer": "Atari Corporation",
+  "hardware": {
+    "cpu": {
+      "type": "MOS 6502C",
+      "speed": "1.79MHz"
+    },
+    "ram": 65536,
+    "release": {
+      "year": 1985,
+      "month": 2
+    },
+    "keyboard": 56
+  },
+  "price": [
+    {
+      "year": 1985,
+      "amount": 99.95,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

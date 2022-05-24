@@ -1,0 +1,20 @@
+{
+  "name": "Spectravideo SVI-328 Mk II",
+  "nickname": "",
+  "manufacturer": "Spectravideo",
+  "hardware": {
+    "cpu": {
+      "type": "Z80A",
+      "speed": "3.6MHz"
+    },
+    "ram": 49152,
+    "release": {
+      "year": 1983,
+      "month": 7
+    },
+    "keyboard": 86
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Matra Alice 90",
+  "nickname": "",
+  "manufacturer": "Matra Hachette",
+  "hardware": {
+    "cpu": {
+      "type": "Motorola 6803",
+      "speed": "1MHz"
+    },
+    "ram": 32768,
+    "release": {
+      "year": 1985,
+      "month": 8
+    },
+    "keyboard": 53
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

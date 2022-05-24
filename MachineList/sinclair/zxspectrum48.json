@@ -1,0 +1,31 @@
+{
+  "name": "Sinclair ZX Spectrum (48K)",
+  "nickname": "Speccy",
+  "manufacturer": "Sinclair Research",
+  "hardware": {
+    "cpu": {
+      "type": "Z80",
+      "speed": "3.5MHz"
+    },
+    "ram": 49152,
+    "release": {
+      "year": 1982,
+      "month": 4,
+      "day": 23
+    },
+    "discontinued": {
+      "year": 1992
+    },
+    "keyboard": 40,
+    "sales": 5000000
+  },
+  "price": [
+    {
+      "year": 1982,
+      "amount": 175,
+      "currency": "gbp"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

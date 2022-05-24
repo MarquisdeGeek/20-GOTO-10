@@ -1,0 +1,20 @@
+{
+  "name": "Acorn Archimedes A440",
+  "nickname": "",
+  "manufacturer": "Acorn Computers",
+  "hardware": {
+    "cpu": {
+      "type": "ARM2",
+      "speed": "8MHz"
+    },
+    "ram": 4194304,
+    "release": {
+      "year": 1987,
+      "month": 7
+    },
+    "keyboard": 103
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

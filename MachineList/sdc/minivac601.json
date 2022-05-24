@@ -1,0 +1,21 @@
+{
+  "name": "Minivac 601",
+  "nickname": "",
+  "manufacturer": "Scientific Development Corporation",
+  "hardware": {
+    "rom": 0,
+    "ram": 1,
+    "release": {
+      "year": 1961
+    }
+  },
+  "price": [
+    {
+      "year": 1961,
+      "amount": 85,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

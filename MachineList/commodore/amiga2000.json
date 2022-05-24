@@ -1,0 +1,26 @@
+{
+  "name": "Amiga 2000",
+  "nickname": "",
+  "manufacturer": "Commodore International",
+  "hardware": {
+    "cpu": {
+      "type": "68000",
+      "speed": "7.1MHz"
+    },
+    "ram": 524288,
+    "release": {
+      "year": 1987,
+      "month": 3
+    },
+    "keyboard": 94
+  },
+  "price": [
+    {
+      "year": 1987,
+      "amount": 1495,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

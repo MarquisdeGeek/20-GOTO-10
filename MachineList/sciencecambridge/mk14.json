@@ -1,0 +1,26 @@
+{
+  "name": "MK 14",
+  "nickname": "",
+  "manufacturer": "Science of Cambridge",
+  "hardware": {
+    "cpu": {
+      "type": "NS SC/MP"
+    },
+    "ram": 256,
+    "release": {
+      "year": 1978,
+      "month": 6
+    },
+    "keyboard": 20,
+    "sales": 15000
+  },
+  "price": [
+    {
+      "year": 1978,
+      "amount": 39.95,
+      "currency": "gbp"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

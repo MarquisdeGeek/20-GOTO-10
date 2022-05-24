@@ -1,0 +1,18 @@
+{
+  "name": "Olympia People",
+  "nickname": "",
+  "manufacturer": "Olympia international",
+  "hardware": {
+    "cpu": {
+      "type": "8086"
+    },
+    "ram": 131072,
+    "release": {
+      "year": 1983
+    },
+    "keyboard": 91
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

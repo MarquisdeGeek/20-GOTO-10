@@ -1,0 +1,22 @@
+{
+  "name": "Dragon 32",
+  "nickname": "",
+  "manufacturer": "Dragon Data",
+  "hardware": {
+    "cpu": {
+      "type": "M6809E",
+      "speed": "0.89MHz"
+    },
+    "ram": 32768,
+    "rom": 16384,
+    "release": {
+      "year": 1982,
+      "month": 8
+    },
+    "discontinued": 1987,
+    "keyboard": 53
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

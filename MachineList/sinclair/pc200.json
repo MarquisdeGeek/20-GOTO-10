@@ -1,0 +1,26 @@
+{
+  "name": "Sinclair PC 200",
+  "nickname": "",
+  "manufacturer": "Sinclair Research",
+  "hardware": {
+    "cpu": {
+      "type": "Intel 8086",
+      "speed": "8MHz"
+    },
+    "ram": 524288,
+    "release": {
+      "year": 1988,
+      "month": 11
+    },
+    "keyboard": 102
+  },
+  "price": [
+    {
+      "year": 1988,
+      "amount": 299,
+      "currency": "gbp"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

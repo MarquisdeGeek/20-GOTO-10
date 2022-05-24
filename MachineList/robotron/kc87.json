@@ -1,0 +1,19 @@
+{
+  "name": "Robotron KC 87",
+  "nickname": "",
+  "manufacturer": "VEB Robotron-Messelectronik",
+  "hardware": {
+    "cpu": {
+      "type": "MME U880",
+      "speed": "2.5MHz"
+    },
+    "ram": 16384,
+    "release": {
+      "year": 1986
+    },
+    "keyboard": 65
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

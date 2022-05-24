@@ -1,0 +1,20 @@
+{
+  "name": "380Z",
+  "nickname": "",
+  "manufacturer": "Research Machines",
+  "hardware": {
+    "cpu": {
+      "type": "Z80",
+      "speed": "4MHz"
+    },
+    "ram": 57344,
+    "release": {
+      "year": 1978,
+      "month": 2
+    },
+    "keyboard": 60
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

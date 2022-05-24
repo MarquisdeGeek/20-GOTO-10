@@ -1,0 +1,26 @@
+{
+  "name": "VTech Laser 200",
+  "nickname": "",
+  "manufacturer": "Video Technology",
+  "hardware": {
+    "cpu": {
+      "type": "Z80A",
+      "speed": "3.56MHz"
+    },
+    "ram": 4096,
+    "release": {
+      "year": 1983,
+      "month": 11
+    },
+    "keyboard": 73
+  },
+  "price": [
+    {
+      "year": 1984,
+      "amount": 1200,
+      "currency": "franc"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

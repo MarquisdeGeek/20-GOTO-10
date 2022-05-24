@@ -1,0 +1,35 @@
+{
+  "name": "Acorn Atom",
+  "nickname": "",
+  "manufacturer": "Acorn Computers",
+  "hardware": {
+    "cpu": {
+      "type": "MOS 6502",
+      "speed": "1MHz"
+    },
+    "ram": 2048,
+    "rom": 8096,
+    "release": {
+      "year": 1980,
+      "month": 2
+    },
+    "keyboard": 40,
+    "sales": 20000
+  },
+  "price": [
+    {
+      "year": 1980,
+      "amount": 120,
+      "currency": "gbp",
+      "about": "kit"
+    },
+    {
+      "year": 1980,
+      "amount": 150,
+      "currency": "gbp",
+      "about": "built"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

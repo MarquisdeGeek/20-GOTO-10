@@ -1,0 +1,27 @@
+{
+  "name": "Acorn BBC Model B",
+  "nickname": "",
+  "manufacturer": "Acorn Computers",
+  "hardware": {
+    "cpu": {
+      "type": "MOS 6502",
+      "speed": "2MHz"
+    },
+    "ram": 32768,
+    "release": {
+      "year": 1981,
+      "month": 12,
+      "day": 1
+    },
+    "keyboard": 74
+  },
+  "price": [
+    {
+      "year": 1981,
+      "amount": 335,
+      "currency": "gbp"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

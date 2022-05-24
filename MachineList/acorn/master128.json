@@ -1,0 +1,20 @@
+{
+  "name": "Acorn BBC Master 128",
+  "nickname": "",
+  "manufacturer": "Acorn Computers",
+  "hardware": {
+    "cpu": {
+      "type": "MOS 65SC12",
+      "speed": "2MHz"
+    },
+    "ram": 131072,
+    "release": {
+      "year": 1986,
+      "month": 2
+    },
+    "keyboard": 93
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

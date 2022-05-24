@@ -1,0 +1,30 @@
+{
+  "name": "Camputers Lynx",
+  "nickname": "",
+  "manufacturer": "Camputers",
+  "hardware": {
+    "cpu": {
+      "type": "Z80A",
+      "speed": "4MHz"
+    },
+    "ram": 49152,
+    "release": {
+      "year": 1983
+    },
+    "discontinued": {
+      "year": 1984,
+      "month": 6
+    },
+    "keyboard": 58,
+    "sold": 30000
+  },
+  "price": [
+    {
+      "year": 1983,
+      "amount": 225,
+      "currency": "gbp"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

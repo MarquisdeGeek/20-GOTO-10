@@ -1,0 +1,32 @@
+{
+  "name": "ZX Spectrum +3",
+  "nickname": "",
+  "manufacturer": "Amstrad",
+  "hardware": {
+    "cpu": {
+      "type": "Z80",
+      "speed": "3.5MHz"
+    },
+    "ram": 131072,
+    "release": {
+      "year": 1987,
+      "month": 6,
+      "day": 1
+    },
+    "keyboard": 58
+  },
+  "price": [
+    {
+      "year": 1987,
+      "amount": 249,
+      "currency": "gbp"
+    },
+    {
+      "year": 1988,
+      "amount": 199,
+      "currency": "gbp"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

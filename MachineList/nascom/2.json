@@ -1,0 +1,27 @@
+{
+  "name": "Nascom 2",
+  "nickname": "",
+  "manufacturer": "Nascom",
+  "hardware": {
+    "cpu": {
+      "type": "z80",
+      "speed": "1.9MHz"
+    },
+    "ram": 10240,
+    "rom": 10240,
+    "release": {
+      "year": 1979,
+      "month": 12,
+      "day": 1
+    }
+  },
+  "price": [
+    {
+      "year": 1979,
+      "amount": 299.5,
+      "currency": "gbp"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Atari 600XL",
+  "nickname": "",
+  "manufacturer": "Atari Inc.",
+  "hardware": {
+    "cpu": {
+      "type": "MOS 6502C",
+      "speed": "1.79MHz"
+    },
+    "ram": 16384,
+    "release": {
+      "year": 1983,
+      "month": 10
+    },
+    "keyboard": 63
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

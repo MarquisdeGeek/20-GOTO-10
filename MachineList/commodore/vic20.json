@@ -1,0 +1,21 @@
+{
+  "name": "Commodore VIC-20",
+  "nickname": "",
+  "manufacturer": "Commodore Business Machines",
+  "hardware": {
+    "cpu": {
+      "type": "MOS 6502",
+      "speed": "1MHz"
+    },
+    "ram": 5120,
+    "release": {
+      "year": 1980,
+      "month": 10
+    },
+    "keyboard": 66
+  },
+  "sales": 3000000,
+  "price": [],
+  "notes": [],
+  "external": []
+}

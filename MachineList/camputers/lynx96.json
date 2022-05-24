@@ -1,0 +1,30 @@
+{
+  "name": "Camputers Lynx 96",
+  "nickname": "",
+  "manufacturer": "Camputers",
+  "hardware": {
+    "cpu": {
+      "type": "Z80A",
+      "speed": "4MHz"
+    },
+    "ram": 98304,
+    "release": {
+      "year": 1983,
+      "month": 9
+    },
+    "discontinued": {
+      "year": 1984,
+      "month": 6
+    },
+    "keyboard": 58
+  },
+  "price": [
+    {
+      "year": 1983,
+      "amount": 299,
+      "currency": "gbp"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

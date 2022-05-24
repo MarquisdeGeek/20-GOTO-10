@@ -1,0 +1,20 @@
+{
+  "name": "Atari 520 ST FM",
+  "nickname": "",
+  "manufacturer": "Atari Corporation",
+  "hardware": {
+    "cpu": {
+      "type": "68000",
+      "speed": "8MHz"
+    },
+    "ram": 524288,
+    "release": {
+      "year": 1985,
+      "month": 9
+    },
+    "keyboard": 95
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

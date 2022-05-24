@@ -1,0 +1,29 @@
+{
+  "name": "Tandy 1000",
+  "nickname": "",
+  "manufacturer": "Tandy Corporation",
+  "hardware": {
+    "cpu": {
+      "type": "Intel 8088",
+      "speed": "4.77MHz"
+    },
+    "ram": 131072,
+    "release": {
+      "year": 1984,
+      "month": 12
+    },
+    "discontinued": {
+      "year": 1993
+    },
+    "keyboard": 90
+  },
+  "price": [
+    {
+      "year": 1984,
+      "amount": 1200,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

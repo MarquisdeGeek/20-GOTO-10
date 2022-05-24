@@ -1,0 +1,20 @@
+{
+  "name": "Oric-1",
+  "nickname": "",
+  "manufacturer": "Oric Products International",
+  "hardware": {
+    "cpu": {
+      "type": "MOS 6502A",
+      "speed": "1MHz"
+    },
+    "ram": 16384,
+    "release": {
+      "year": 1982,
+      "month": 12
+    },
+    "keyboard": 57
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

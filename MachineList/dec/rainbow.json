@@ -1,0 +1,30 @@
+{
+  "name": "DEC Rainbow",
+  "nickname": "",
+  "manufacturer": "DEC",
+  "hardware": {
+    "cpu": {
+      "type": "Z80",
+      "speed": "4MHz"
+    },
+    "cpu2": {
+      "type": "8080",
+      "speed": "4.81MHz"
+    },
+    "ram": 65536,
+    "release": {
+      "year": 1982,
+      "month": 6
+    },
+    "keyboard": 105
+  },
+  "price": [
+    {
+      "year": 1982,
+      "amount": 5475,
+      "currency": "gbp"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Sord M5",
+  "nickname": "",
+  "manufacturer": "Sort Computer Corportion",
+  "hardware": {
+    "cpu": {
+      "type": "Z80A",
+      "speed": "3.6MHz"
+    },
+    "ram": 4096,
+    "release": {
+      "year": 1982,
+      "month": 9
+    },
+    "keyboard": 56
+  },
+  "price": [
+    {
+      "year": 1982,
+      "amount": 195,
+      "currency": "gbp"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

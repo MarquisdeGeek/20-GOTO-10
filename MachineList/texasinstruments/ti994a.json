@@ -1,0 +1,27 @@
+{
+  "name": "TI-99/4A",
+  "nickname": "",
+  "manufacturer": "Texas Instruments",
+  "hardware": {
+    "cpu": {
+      "type": "TI TMS9900",
+      "speed": "3MHz"
+    },
+    "ram": 256,
+    "gfxram": 16384,
+    "release": {
+      "year": 1981,
+      "month": 6
+    },
+    "keyboard": 48
+  },
+  "price": [
+    {
+      "year": 1981,
+      "amount": 525,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

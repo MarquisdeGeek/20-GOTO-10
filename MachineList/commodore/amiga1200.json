@@ -1,0 +1,25 @@
+{
+  "name": "Amiga 1200",
+  "nickname": "",
+  "manufacturer": "Commodore International",
+  "hardware": {
+    "cpu": {
+      "type": "68000",
+      "speed": "7.1MHz"
+    },
+    "ram": 524288,
+    "release": {
+      "year": 1992
+    },
+    "keyboard": 96
+  },
+  "price": [
+    {
+      "year": 1992,
+      "amount": 399,
+      "currency": "gbp"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

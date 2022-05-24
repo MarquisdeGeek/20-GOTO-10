@@ -1,0 +1,25 @@
+{
+  "name": "Aim-65",
+  "nickname": "",
+  "manufacturer": "Rockwell",
+  "hardware": {
+    "cpu": {
+      "type": "Rockwell 6502",
+      "speed": "1.023MHz"
+    },
+    "ram": 1024,
+    "release": {
+      "year": 1978
+    },
+    "keyboard": 53
+  },
+  "price": [
+    {
+      "year": 1978,
+      "amount": 375,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Sinclair QL",
+  "nickname": "",
+  "manufacturer": "Sinclair Research",
+  "hardware": {
+    "cpu": {
+      "type": "Motorola 68008",
+      "speed": "7.5MHz"
+    },
+    "ram": 131072,
+    "release": {
+      "year": 1984,
+      "month": 4
+    },
+    "discontinued": {
+      "year": 1985
+    },
+    "keyboard": 65
+  },
+  "sales": 150000,
+  "price": [
+    {
+      "year": 1984,
+      "amount": 399,
+      "currency": "gbp"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

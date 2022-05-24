@@ -1,0 +1,32 @@
+{
+  "name": "Apple II e",
+  "nickname": "",
+  "manufacturer": "Apple Computer",
+  "hardware": {
+    "cpu": {
+      "type": "Synertek 6502",
+      "speed": "1.023MHz"
+    },
+    "rom": 16384,
+    "ram": 65536,
+    "release": {
+      "year": 1983,
+      "month": 1
+    },
+    "discontinued": {
+      "year": 1993,
+      "month": 11
+    },
+    "keyboard": 62
+  },
+  "sales": 4800000,
+  "price": [
+    {
+      "year": 1983,
+      "amount": 1395,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

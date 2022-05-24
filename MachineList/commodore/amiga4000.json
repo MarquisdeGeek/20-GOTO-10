@@ -1,0 +1,25 @@
+{
+  "name": "Amiga 4000",
+  "nickname": "",
+  "manufacturer": "Commodore International",
+  "hardware": {
+    "cpu": {
+      "type": "68000",
+      "speed": "7.1MHz"
+    },
+    "ram": 524288,
+    "release": {
+      "year": 1992
+    },
+    "keyboard": 91
+  },
+  "price": [
+    {
+      "year": 1992,
+      "amount": 3699,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

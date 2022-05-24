@@ -1,0 +1,29 @@
+{
+  "name": "TRS-80 Model I",
+  "nickname": "Trash 80",
+  "manufacturer": "Tandy Corporation",
+  "hardware": {
+    "cpu": {
+      "type": "Z80",
+      "speed": "1.77MHz"
+    },
+    "rom": 4096,
+    "ram": 4096,
+    "release": {
+      "year": 1977,
+      "month": 8,
+      "day": 3
+    },
+    "video": "128x48",
+    "keyboard": 53
+  },
+  "price": [
+    {
+      "year": 1977,
+      "amount": 399.95,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

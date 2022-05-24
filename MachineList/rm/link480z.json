@@ -1,0 +1,19 @@
+{
+  "name": "Link 480Z",
+  "nickname": "",
+  "manufacturer": "Research Machines",
+  "hardware": {
+    "cpu": {
+      "type": "Z80A",
+      "speed": "4MHz"
+    },
+    "ram": 32768,
+    "release": {
+      "year": 1982
+    },
+    "keyboard": 65
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

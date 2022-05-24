@@ -1,0 +1,19 @@
+{
+  "name": "Microdigital TK90X",
+  "nickname": "",
+  "manufacturer": "Microdigital Electronics",
+  "hardware": {
+    "cpu": {
+      "type": "Z80A",
+      "speed": "3.5MHz"
+    },
+    "ram": 49152,
+    "release": {
+      "year": 1985
+    },
+    "keyboard": 40
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

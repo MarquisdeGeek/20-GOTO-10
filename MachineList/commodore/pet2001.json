@@ -1,0 +1,29 @@
+{
+  "name": "Pet 2001 Series",
+  "nickname": "",
+  "manufacturer": "Commodore International",
+  "hardware": {
+    "cpu": {
+      "type": "MOS 6502",
+      "speed": "1MHz"
+    },
+    "ram": 4096,
+    "release": {
+      "year": 1977,
+      "month": 10
+    },
+    "discontinued": {
+      "year": 1986
+    },
+    "keyboard": 73
+  },
+  "price": [
+    {
+      "year": 1977,
+      "amount": 795,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

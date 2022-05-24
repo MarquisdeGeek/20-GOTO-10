@@ -1,0 +1,20 @@
+{
+  "name": "Bit 90",
+  "nickname": "",
+  "manufacturer": "Bit Corporation",
+  "hardware": {
+    "cpu": {
+      "type": "z80",
+      "speed": "3.85Mhz"
+    },
+    "ram": 18432,
+    "rom": 24576,
+    "release": {
+      "year": 1983
+    },
+    "keyboard": 66
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Cambridge Z88",
+  "nickname": "",
+  "manufacturer": "Cambridge Computer",
+  "hardware": {
+    "cpu": {
+      "type": "Z80A",
+      "speed": "3.3MHz"
+    },
+    "ram": 32768,
+    "release": {
+      "year": 1987,
+      "month": 8
+    },
+    "keyboard": 64
+  },
+  "price": [
+    {
+      "year": 1987,
+      "amount": 300,
+      "currency": "gbp"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

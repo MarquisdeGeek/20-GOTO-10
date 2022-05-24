@@ -1,0 +1,26 @@
+{
+  "name": "IBM 1510",
+  "nickname": "",
+  "manufacturer": "IBM",
+  "hardware": {
+    "cpu": {
+      "type": "8088",
+      "speed": "4.77MHz"
+    },
+    "ram": 16384,
+    "release": {
+      "year": 1981,
+      "month": 8,
+      "day": 12
+    }
+  },
+  "price": [
+    {
+      "year": 1981,
+      "amount": 1565,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

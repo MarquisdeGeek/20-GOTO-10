@@ -1,0 +1,26 @@
+{
+  "name": "Canon V20",
+  "nickname": "",
+  "manufacturer": "Canon",
+  "hardware": {
+    "cpu": {
+      "type": "NEC Z80A",
+      "speed": "3.6MHz"
+    },
+    "ram": 65536,
+    "release": {
+      "year": 1984,
+      "month": 5
+    },
+    "keyboard": 73
+  },
+  "price": [
+    {
+      "year": 1984,
+      "amount": 280,
+      "currency": "gbp"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

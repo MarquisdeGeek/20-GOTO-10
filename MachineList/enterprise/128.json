@@ -1,0 +1,21 @@
+{
+  "name": "Enterprise 128",
+  "nickname": "",
+  "manufacturer": "Enterprise Computers",
+  "hardware": {
+    "cpu": {
+      "type": "Z80A",
+      "speed": "4MHz"
+    },
+    "ram": 131072,
+    "release": {
+      "year": 1985,
+      "month": 6
+    },
+    "sales": 80000,
+    "keyboard": 69
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

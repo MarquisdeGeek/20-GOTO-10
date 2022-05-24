@@ -1,0 +1,21 @@
+{
+  "name": "Minivac 6010",
+  "nickname": "",
+  "manufacturer": "Scientific Development Corporation",
+  "hardware": {
+    "rom": 0,
+    "ram": 1,
+    "release": {
+      "year": 1962
+    }
+  },
+  "price": [
+    {
+      "year": 1962,
+      "amount": 479,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

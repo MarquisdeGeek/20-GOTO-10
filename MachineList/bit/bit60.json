@@ -1,0 +1,19 @@
+{
+  "name": "Bit 60",
+  "nickname": "",
+  "manufacturer": "Bit Corporation",
+  "hardware": {
+    "cpu": {
+      "type": "6502"
+    },
+    "ram": 2048,
+    "rom": 8192,
+    "release": {
+      "year": 1983
+    },
+    "keyboard": 46
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

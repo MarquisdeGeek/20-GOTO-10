@@ -1,0 +1,28 @@
+{
+  "name": "Apple I",
+  "nickname": "",
+  "manufacturer": "Apple Computer",
+  "hardware": {
+    "cpu": {
+      "type": "MOS 6502",
+      "speed": "1.023MHz"
+    },
+    "rom": 256,
+    "ram": 4096,
+    "release": {
+      "year": 1976,
+      "month": 4,
+      "day": 11
+    }
+  },
+  "sales": 200,
+  "price": [
+    {
+      "year": 1983,
+      "amount": 666.66,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

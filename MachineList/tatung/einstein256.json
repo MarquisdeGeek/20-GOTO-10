@@ -1,0 +1,20 @@
+{
+  "name": "Tatung Einstein 256",
+  "nickname": "",
+  "manufacturer": "Tatung Corporation",
+  "hardware": {
+    "cpu": {
+      "type": "Z80A",
+      "speed": "4MHz"
+    },
+    "ram": 262144,
+    "release": {
+      "year": 1986
+    },
+    "sales": 2000000,
+    "keyboard": 69
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

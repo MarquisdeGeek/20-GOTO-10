@@ -1,0 +1,27 @@
+{
+  "name": "Amstrad PC1512 DD",
+  "nickname": "",
+  "manufacturer": "Amstrad",
+  "hardware": {
+    "cpu": {
+      "type": "Intel 8086",
+      "speed": "8MHz"
+    },
+    "ram": 524288,
+    "release": {
+      "year": 1986,
+      "month": 10
+    },
+    "keyboard": 85
+  },
+  "price": [
+    {
+      "year": 1986,
+      "amount": 399,
+      "currency": "gbp",
+      "about": "monitor"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

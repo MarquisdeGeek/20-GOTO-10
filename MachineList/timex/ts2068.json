@@ -1,0 +1,26 @@
+{
+  "name": "Timex Sinclair 2068",
+  "nickname": "",
+  "manufacturer": "Timex Sinclair",
+  "hardware": {
+    "cpu": {
+      "type": "Z80",
+      "speed": "3.5MHz"
+    },
+    "ram": 49152,
+    "release": {
+      "year": 1983,
+      "month": 11
+    },
+    "keyboard": 42
+  },
+  "price": [
+    {
+      "year": 1983,
+      "amount": 199.95,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

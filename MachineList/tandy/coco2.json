@@ -1,0 +1,20 @@
+{
+  "name": "Radio Shack TRS-80 Color Computer 2",
+  "nickname": "",
+  "manufacturer": "Tandy Corporation",
+  "hardware": {
+    "cpu": {
+      "type": "MC6809E",
+      "speed": "0.89MHz"
+    },
+    "ram": 16384,
+    "release": {
+      "year": 1983,
+      "month": 9
+    },
+    "keyboard": 53
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

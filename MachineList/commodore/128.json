@@ -1,0 +1,24 @@
+{
+  "name": "Commodore 128",
+  "nickname": "",
+  "manufacturer": "Commodore Business Machines",
+  "hardware": {
+    "cpu": {
+      "type": "MOS 6502",
+      "speed": "2MHz"
+    },
+    "cpu2": {
+      "type": "Z80B",
+      "speed": "2MHz"
+    },
+    "ram": 131072,
+    "release": {
+      "year": 1985
+    },
+    "keyboard": 92
+  },
+  "sales": 5700000,
+  "price": [],
+  "notes": [],
+  "external": []
+}

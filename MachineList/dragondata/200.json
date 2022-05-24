@@ -1,0 +1,21 @@
+{
+  "name": "Dragon 200",
+  "nickname": "",
+  "manufacturer": "Eurohard S.A.",
+  "hardware": {
+    "cpu": {
+      "type": "M6809E",
+      "speed": "0.89MHz"
+    },
+    "ram": 65536,
+    "rom": 16384,
+    "release": {
+      "year": 1984
+    },
+    "discontinued": 1987,
+    "keyboard": 53
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

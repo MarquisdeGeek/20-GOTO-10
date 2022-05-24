@@ -1,0 +1,26 @@
+{
+  "name": "Sorcerer",
+  "nickname": "",
+  "manufacturer": "Exidy",
+  "hardware": {
+    "cpu": {
+      "type": "Z80",
+      "speed": "2.1MHz"
+    },
+    "rom": 8192,
+    "ram": 4096,
+    "release": {
+      "year": 1978
+    },
+    "keyboard": 79
+  },
+  "price": [
+    {
+      "year": 1978,
+      "amount": 895,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

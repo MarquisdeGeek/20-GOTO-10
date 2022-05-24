@@ -1,0 +1,26 @@
+{
+  "name": "TRS-80 Model II",
+  "nickname": "Trash 80",
+  "manufacturer": "Tandy Corporation",
+  "hardware": {
+    "cpu": {
+      "type": "Z80",
+      "speed": "4MHz"
+    },
+    "ram": 32768,
+    "release": {
+      "year": 1979,
+      "month": 6
+    },
+    "keyboard": 76
+  },
+  "price": [
+    {
+      "year": 1979,
+      "amount": 3450,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

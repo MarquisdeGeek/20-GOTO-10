@@ -1,0 +1,27 @@
+{
+  "name": "Mattel Aquarius",
+  "nickname": "",
+  "manufacturer": "Mattel",
+  "hardware": {
+    "cpu": {
+      "type": "NEC Z80A",
+      "speed": "3.5MHz"
+    },
+    "ram": 4096,
+    "rom": 8192,
+    "release": {
+      "year": 1983,
+      "month": 10
+    },
+    "keyboard": 48
+  },
+  "price": [
+    {
+      "year": 1983,
+      "amount": 160,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

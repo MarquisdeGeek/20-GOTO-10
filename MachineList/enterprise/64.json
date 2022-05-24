@@ -1,0 +1,27 @@
+{
+  "name": "Enterprise 64",
+  "nickname": "",
+  "manufacturer": "Enterprise Computers",
+  "hardware": {
+    "cpu": {
+      "type": "Z80A",
+      "speed": "4MHz"
+    },
+    "ram": 65536,
+    "release": {
+      "year": 1985,
+      "month": 1
+    },
+    "keyboard": 69
+  },
+  "price": [
+    {
+      "year": 1985,
+      "month": 1,
+      "amount": 180,
+      "currency": "gbp"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

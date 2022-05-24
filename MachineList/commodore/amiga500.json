@@ -1,0 +1,26 @@
+{
+  "name": "Amiga 500",
+  "nickname": "",
+  "manufacturer": "Commodore International",
+  "hardware": {
+    "cpu": {
+      "type": "68000",
+      "speed": "7.1MHz"
+    },
+    "ram": 524288,
+    "release": {
+      "year": 1987
+    },
+    "keyboard": 94,
+    "sales": 5000000
+  },
+  "price": [
+    {
+      "year": 1987,
+      "amount": 699,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

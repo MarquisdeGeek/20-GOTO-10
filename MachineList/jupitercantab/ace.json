@@ -1,0 +1,29 @@
+{
+  "name": "Jupiter Ace",
+  "nickname": "",
+  "manufacturer": "Jupiter Cantab",
+  "hardware": {
+    "cpu": {
+      "type": "Z80",
+      "speed": "3.25MHz"
+    },
+    "ram": 3072,
+    "rom": 8092,
+    "release": {
+      "year": 1982,
+      "month": 9
+    },
+    "discontinued": 1984,
+    "keyboard": 40,
+    "sales": 5000
+  },
+  "price": [
+    {
+      "year": 1982,
+      "amount": 89.95,
+      "currency": "gbp"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

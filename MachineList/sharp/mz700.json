@@ -1,0 +1,20 @@
+{
+  "name": "Sharp MZ-700",
+  "nickname": "",
+  "manufacturer": "Sharp Corporation",
+  "hardware": {
+    "cpu": {
+      "type": "Sharp Z80A",
+      "speed": "4MHz"
+    },
+    "ram": 65536,
+    "release": {
+      "year": 1982,
+      "month": 11
+    },
+    "keyboard": 69
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

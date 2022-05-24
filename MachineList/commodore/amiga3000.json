@@ -1,0 +1,25 @@
+{
+  "name": "Amiga 3000",
+  "nickname": "",
+  "manufacturer": "Commodore International",
+  "hardware": {
+    "cpu": {
+      "type": "68000",
+      "speed": "7.1MHz"
+    },
+    "ram": 524288,
+    "release": {
+      "year": 1990
+    },
+    "keyboard": 91
+  },
+  "price": [
+    {
+      "year": 1990,
+      "amount": 3379,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Apple IIGS",
+  "nickname": "",
+  "manufacturer": "Apple Computer",
+  "hardware": {
+    "cpu": {
+      "type": "WDC 65C816",
+      "speed": "2.83MHz"
+    },
+    "ram": 262144,
+    "release": {
+      "year": 1986,
+      "month": 9
+    },
+    "keyboard": 0
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

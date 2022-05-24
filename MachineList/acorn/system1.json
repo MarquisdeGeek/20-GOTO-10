@@ -1,0 +1,20 @@
+{
+  "name": "System 1",
+  "nickname": "",
+  "manufacturer": "Acorn Computers",
+  "hardware": {
+    "cpu": {
+      "type": "Rockwell 6502",
+      "speed": "1MHz"
+    },
+    "ram": 1024,
+    "release": {
+      "year": 1979,
+      "month": 4
+    },
+    "keyboard": 25
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

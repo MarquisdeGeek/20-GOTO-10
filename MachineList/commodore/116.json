@@ -1,0 +1,19 @@
+{
+  "name": "Commodore 116",
+  "nickname": "",
+  "manufacturer": "Commodore Business Machines",
+  "hardware": {
+    "cpu": {
+      "type": "MOS 7501",
+      "speed": "0.89MHz"
+    },
+    "ram": 16384,
+    "release": {
+      "year": 1984
+    },
+    "keyboard": 60
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

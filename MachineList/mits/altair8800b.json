@@ -1,0 +1,32 @@
+{
+  "name": "Altair 8800b",
+  "nickname": "",
+  "manufacturer": "Micro Instrumentation and Telemetry Systems",
+  "hardware": {
+    "cpu": {
+      "type": "8080",
+      "speed": "2.5MHz"
+    },
+    "rom": 0,
+    "ram": 1024,
+    "release": {
+      "year": 1975
+    }
+  },
+  "price": [
+    {
+      "year": 1975,
+      "amount": 439,
+      "currency": "usd",
+      "about": "kit"
+    },
+    {
+      "year": 1975,
+      "amount": 621,
+      "currency": "usd",
+      "about": "built"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Sinclair ZX Spectrum (16K)",
+  "nickname": "",
+  "manufacturer": "Sinclair Research",
+  "hardware": {
+    "cpu": {
+      "type": "Z80",
+      "speed": "3.5MHz"
+    },
+    "ram": 16384,
+    "release": {
+      "year": 1982,
+      "month": 4,
+      "day": 23
+    },
+    "keyboard": 40
+  },
+  "sales": 5000000,
+  "price": [
+    {
+      "year": 1982,
+      "amount": 125,
+      "currency": "gbp"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

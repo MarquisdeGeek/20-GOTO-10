@@ -1,0 +1,30 @@
+{
+  "name": "Memotech MTX512",
+  "nickname": "",
+  "manufacturer": "Memotech Corporation",
+  "hardware": {
+    "cpu": {
+      "type": "Z80A",
+      "speed": "4MHz"
+    },
+    "ram": 65536,
+    "release": {
+      "year": 1983
+    },
+    "keyboard": 80
+  },
+  "price": [
+    {
+      "year": 1983,
+      "amount": 315,
+      "currency": "gbp"
+    },
+    {
+      "year": 1985,
+      "amount": 130,
+      "currency": "gbp"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Memotech MTX500",
+  "nickname": "",
+  "manufacturer": "Memotech Corporation",
+  "hardware": {
+    "cpu": {
+      "type": "Z80A",
+      "speed": "4MHz"
+    },
+    "ram": 32768,
+    "release": {
+      "year": 1983
+    },
+    "keyboard": 80
+  },
+  "price": [
+    {
+      "year": 1983,
+      "amount": 275,
+      "currency": "gbp"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

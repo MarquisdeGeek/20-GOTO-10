@@ -1,0 +1,26 @@
+{
+  "name": "Hewlett-Packard HP-85",
+  "nickname": "",
+  "manufacturer": "Hewlett-Packard",
+  "hardware": {
+    "cpu": {
+      "type": "HP 8-bit",
+      "speed": "0.613MHz"
+    },
+    "ram": 16384,
+    "release": {
+      "year": 1980,
+      "month": 1
+    },
+    "keyboard": 92
+  },
+  "price": [
+    {
+      "year": 1980,
+      "amount": 3250,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Osborne 1",
+  "nickname": "",
+  "manufacturer": "Osborne Computer Corporation",
+  "hardware": {
+    "cpu": {
+      "type": "Z80",
+      "speed": "4MHz"
+    },
+    "ram": 65536,
+    "release": {
+      "year": 1981,
+      "month": 4
+    },
+    "keyboard": 69
+  },
+  "price": [
+    {
+      "year": 1981,
+      "amount": 1795,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

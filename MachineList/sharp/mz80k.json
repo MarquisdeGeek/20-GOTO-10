@@ -1,0 +1,26 @@
+{
+  "name": "Sharp MZ-80K",
+  "nickname": "",
+  "manufacturer": "Sharp Corporation",
+  "hardware": {
+    "cpu": {
+      "type": "Sharp Z80",
+      "speed": "2MHz"
+    },
+    "ram": 20480,
+    "release": {
+      "year": 1978,
+      "month": 12
+    },
+    "keyboard": 78
+  },
+  "price": [
+    {
+      "year": 1978,
+      "amount": 423,
+      "currency": "gbp"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

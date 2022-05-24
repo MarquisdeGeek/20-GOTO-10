@@ -1,0 +1,19 @@
+{
+  "name": "Franklin Ace 100",
+  "nickname": "",
+  "manufacturer": "Franklin Computer Corporation",
+  "hardware": {
+    "cpu": {
+      "type": "6502",
+      "speed": "1.0MHz"
+    },
+    "ram": 49152,
+    "release": {
+      "year": 1982
+    },
+    "keyboard": 72
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

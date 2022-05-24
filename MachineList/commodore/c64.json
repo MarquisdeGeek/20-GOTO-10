@@ -1,0 +1,21 @@
+{
+  "name": "Commodore 64",
+  "nickname": "Breadbin",
+  "manufacturer": "Commodore Business Machines",
+  "hardware": {
+    "cpu": {
+      "type": "MOS 6510",
+      "speed": "1MHz"
+    },
+    "ram": 65536,
+    "release": {
+      "year": 1982,
+      "month": 8
+    },
+    "keyboard": 66
+  },
+  "sales": 12500000,
+  "price": [],
+  "notes": [],
+  "external": []
+}

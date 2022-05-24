@@ -1,0 +1,22 @@
+{
+  "name": "Jupiter Ace 4000",
+  "nickname": "",
+  "manufacturer": "Jupiter Cantab",
+  "hardware": {
+    "cpu": {
+      "type": "Z80",
+      "speed": "3.25MHz"
+    },
+    "ram": 3072,
+    "rom": 8092,
+    "release": {
+      "year": 1983
+    },
+    "discontinued": 1984,
+    "keyboard": 40,
+    "sales": 800
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

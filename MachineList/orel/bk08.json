@@ -1,0 +1,19 @@
+{
+  "name": "Orel BK-08",
+  "nickname": "",
+  "manufacturer": "Dnepropetrovsk Machine-Building Plant",
+  "hardware": {
+    "cpu": {
+      "type": "Goldstar Z80A",
+      "speed": "3.5MHz"
+    },
+    "ram": 65536,
+    "release": {
+      "year": 1989
+    },
+    "keyboard": 61
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

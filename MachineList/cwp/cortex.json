@@ -1,0 +1,25 @@
+{
+  "name": "C/WP Cortex",
+  "nickname": "",
+  "manufacturer": "C/WP",
+  "hardware": {
+    "cpu": {
+      "type": "Z80",
+      "speed": "4MHz"
+    },
+    "ram": 65536,
+    "release": {
+      "year": 1983
+    },
+    "keyboard": 81
+  },
+  "price": [
+    {
+      "year": 1983,
+      "amount": 1795,
+      "currency": "gbp"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

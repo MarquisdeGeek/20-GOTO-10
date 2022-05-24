@@ -1,0 +1,29 @@
+{
+  "name": "Commodore SX-64",
+  "nickname": "",
+  "manufacturer": "Commodore Business Machines",
+  "hardware": {
+    "cpu": {
+      "type": "MOS 6510",
+      "speed": "1MHz"
+    },
+    "ram": 65536,
+    "release": {
+      "year": 1984
+    },
+    "discontinued": {
+      "year": 1986
+    },
+    "keyboard": 66,
+    "sales": 10000
+  },
+  "price": [
+    {
+      "year": 1984,
+      "amount": 1000,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

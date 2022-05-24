@@ -1,0 +1,20 @@
+{
+  "name": "Tandy 1000 EX",
+  "nickname": "",
+  "manufacturer": "Tandy Corporation",
+  "hardware": {
+    "cpu": {
+      "type": "Intel 8088",
+      "speed": "4.77MHz"
+    },
+    "ram": 262144,
+    "release": {
+      "year": 1986,
+      "month": 12
+    },
+    "keyboard": 90
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

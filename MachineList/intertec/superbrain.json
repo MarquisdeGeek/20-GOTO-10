@@ -1,0 +1,25 @@
+{
+  "name": "Superbrain",
+  "nickname": "",
+  "manufacturer": "Intertec Data Systems",
+  "hardware": {
+    "cpu": {
+      "type": "2xZ80",
+      "speed": "4MHz"
+    },
+    "ram": 16384,
+    "release": {
+      "year": 1979
+    },
+    "keyboard": 54
+  },
+  "price": [
+    {
+      "year": 1979,
+      "amount": 1970,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

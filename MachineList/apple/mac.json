@@ -1,0 +1,27 @@
+{
+  "name": "Apple Macintosh",
+  "nickname": "",
+  "manufacturer": "Apple Computer",
+  "hardware": {
+    "cpu": {
+      "type": "MC 68000",
+      "speed": "7.8MHz"
+    },
+    "ram": 131072,
+    "release": {
+      "year": 1984,
+      "month": 1
+    },
+    "keyboard": 56
+  },
+  "sales": 70000,
+  "price": [
+    {
+      "year": 1984,
+      "amount": 2495,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

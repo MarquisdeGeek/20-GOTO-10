@@ -1,0 +1,31 @@
+{
+  "name": "Atari 800",
+  "nickname": "",
+  "manufacturer": "Atari Inc.",
+  "hardware": {
+    "cpu": {
+      "type": "MOS 6502",
+      "speed": "1.79MHz"
+    },
+    "ram": 8192,
+    "release": {
+      "year": 1979,
+      "month": 11
+    },
+    "keyboard": 61
+  },
+  "price": [
+    {
+      "year": 1978,
+      "amount": 999.95,
+      "currency": "usd"
+    },
+    {
+      "year": 1983,
+      "amount": 165,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

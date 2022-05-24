@@ -1,0 +1,26 @@
+{
+  "name": "Matra Alice",
+  "nickname": "",
+  "manufacturer": "Matra Hachette",
+  "hardware": {
+    "cpu": {
+      "type": "Motorola 6803",
+      "speed": "0.89MHz"
+    },
+    "ram": 4096,
+    "release": {
+      "year": 1983,
+      "month": 8
+    },
+    "keyboard": 48
+  },
+  "price": [
+    {
+      "year": 1984,
+      "amount": 1200,
+      "currency": "franc"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

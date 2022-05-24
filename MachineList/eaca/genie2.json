@@ -1,0 +1,27 @@
+{
+  "name": "Genie II EG 3008",
+  "nickname": "",
+  "manufacturer": "EACA",
+  "hardware": {
+    "cpu": {
+      "type": "Z80",
+      "speed": "1.76MHz"
+    },
+    "ram": 16384,
+    "rom": 13824,
+    "release": {
+      "year": 1981,
+      "month": 11
+    },
+    "keyboard": 73
+  },
+  "price": [
+    {
+      "year": 1981,
+      "amount": 425,
+      "currency": "gbp"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

@@ -1,0 +1,21 @@
+{
+  "name": "MGT Sam Coupe",
+  "nickname": "",
+  "manufacturer": "Miles Gordon Technology",
+  "hardware": {
+    "cpu": {
+      "type": "Z80B",
+      "speed": "6MHz"
+    },
+    "ram": 262144,
+    "release": {
+      "year": 1989,
+      "month": 12
+    },
+    "keyboard": 72,
+    "sales": 12000
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Apple III",
+  "nickname": "",
+  "manufacturer": "Apple Computer",
+  "hardware": {
+    "cpu": {
+      "type": "Synertek 6502B",
+      "speed": "1.8MHz"
+    },
+    "ram": 131072,
+    "release": {
+      "year": 1980,
+      "month": 11
+    },
+    "keyboard": 74
+  },
+  "price": [
+    {
+      "year": 1980,
+      "amount": 4340,
+      "currency": "usd"
+    }
+  ],
+  "notes": [],
+  "external": []
+}

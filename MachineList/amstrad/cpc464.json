@@ -1,0 +1,38 @@
+{
+  "name": "Amstrad CPC 464",
+  "nickname": "",
+  "manufacturer": "Amstrad",
+  "hardware": {
+    "cpu": {
+      "type": "Z80A",
+      "speed": "4MHz"
+    },
+    "ram": 65536,
+    "release": {
+      "year": 1984,
+      "month": 6
+    },
+    "discontinued": {
+      "year": 1985,
+      "month": 2
+    },
+    "sales": 2000000,
+    "keyboard": 74
+  },
+  "price": [
+    {
+      "year": 1984,
+      "amount": 349,
+      "currency": "gbp",
+      "about": "green monitor"
+    },
+    {
+      "year": 1984,
+      "amount": 239,
+      "currency": "gbp",
+      "about": "colour monitor"
+    }
+  ],
+  "notes": [],
+  "external": []
+}
