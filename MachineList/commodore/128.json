@@ -12,6 +12,7 @@
       "speed": "2MHz"
     },
     "ram": 131072,
+    "gfxram": 16384,
     "release": {
       "year": 1985
     },
