@@ -1,0 +1,24 @@
+{
+  "name": "Oric Telestrat",
+  "nickname": "",
+  "manufacturer": "Oric Products International",
+  "hardware": {
+    "cpu": {
+      "type": "MOS 6502A",
+      "speed": "1MHz"
+    },
+    "ram": 65536,
+    "release": {
+      "year": 1986,
+      "month": 4
+    },
+    "discontinued": {
+      "year": 1987,
+      "month": 9
+    },
+    "keyboard": 58
+  },
+  "price": [],
+  "notes": [],
+  "external": []
+}
