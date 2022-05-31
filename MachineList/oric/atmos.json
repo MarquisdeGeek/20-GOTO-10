@@ -7,7 +7,7 @@
       "type": "MOS 6502A",
       "speed": "1MHz"
     },
-    "ram": 16384,
+    "ram": 49152,
     "release": {
       "year": 1984,
       "month": 1
@@ -19,6 +19,8 @@
     "keyboard": 58
   },
   "price": [],
-  "notes": [],
+  "notes": [
+    "A additional 16KiB of RAM is hidden by the ROM"
+  ],
   "external": []
 }
