@@ -1,0 +1,23 @@
+{
+  "name": "Sharp X68000",
+  "nickname": "",
+  "manufacturer": "Sharp Corporation",
+  "hardware": {
+    "cpu": {
+      "type": "Hitachi HD68HC000",
+      "speed": "10MHz"
+    },
+    "ram": 1048576,
+    "release": {
+      "year": 1987
+      "month": 3
+      "day": 28
+    },
+    "keyboard": 
+  },
+  "price": [
+    {}
+  ],
+  "notes": ["Multiple variants released over the years with different processors/memory/etc"],
+  "external": []
+}
