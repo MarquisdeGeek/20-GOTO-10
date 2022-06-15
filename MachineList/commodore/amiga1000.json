@@ -7,7 +7,7 @@
       "type": "68000",
       "speed": "7.1MHz"
     },
-    "ram": 131072,
+    "ram": 262144,
     "release": {
       "year": 1985,
       "month": 7
